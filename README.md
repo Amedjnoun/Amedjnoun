@@ -7,6 +7,8 @@ Holberton School student focused on Machine Learning and Systems Programming. I 
 ---
 
 ## Featured Projects
+> Note: Many of the projects below are learning/school projects.
+
 - Myactual-Mobility (Private; access on request)
   - Built a full-stack carpooling platform
   - SQL pre-matching and OSRM-based final matching
