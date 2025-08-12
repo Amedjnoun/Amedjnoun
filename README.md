@@ -13,10 +13,11 @@ Holberton School student focused on Machine Learning and Systems Programming. I 
   - Built a full-stack carpooling platform
   - SQL pre-matching and OSRM-based final matching
   - Fully dockerised for easy deployment, including a self-hosted OSRM routing service
-  - Demo: https://youtube.com/shorts/IHdmDDTlSYg • Repo: https://github.com/Amedjnoun/Myactual-Mobility
+  - Demo: https://youtube.com/shorts/IHdmDDTlSYg • Live Presentation: https://www.youtube.com/live/t2199JonZTc?feature=shared&t=371 • Repo: https://github.com/Amedjnoun/Myactual-Mobility
 
   [![Demo (YouTube)](https://img.youtube.com/vi/IHdmDDTlSYg/hqdefault.jpg)](https://youtube.com/shorts/IHdmDDTlSYg)
-
+  
+  [![Live Presentation (YouTube)](https://img.youtube.com/vi/t2199JonZTc/hqdefault.jpg)](https://www.youtube.com/live/t2199JonZTc?feature=shared&t=371)
 - Simple Shell (C)
   - Implemented parsing, tokenization, PATH resolution, and robust error handling in C
   - Repo: https://github.com/Amedjnoun/holbertonschool-simple_shell
