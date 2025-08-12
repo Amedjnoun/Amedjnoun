@@ -16,9 +16,11 @@ Holberton School student focused on Machine Learning and Systems Programming. I 
   - Repo: https://github.com/Amedjnoun/Myactual-Mobility (Private; access on request)
     
   - Demo: https://youtube.com/shorts/IHdmDDTlSYg
+    
     [![Demo (YouTube)](https://img.youtube.com/vi/IHdmDDTlSYg/hqdefault.jpg)](https://youtube.com/shorts/IHdmDDTlSYg)
 
-  -Live Presentation: https://www.youtube.com/live/t2199JonZTc?feature=shared&t=371
+  - Live Presentation: https://www.youtube.com/live/t2199JonZTc?feature=shared&t=371
+    
   [![Live Presentation (YouTube)](https://img.youtube.com/vi/t2199JonZTc/hqdefault.jpg)](https://www.youtube.com/live/t2199JonZTc?feature=shared&t=371)
   
 - Simple Shell (C)
