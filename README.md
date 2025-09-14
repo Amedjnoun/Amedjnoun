@@ -83,7 +83,6 @@ More repos:
 
 ## GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Amedjnoun&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" alt="Ali's GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amedjnoun&layout=compact&langs_count=8&hide=html,css,jupyter%20notebook,makefile&theme=transparent" alt="Top Languages" height="165" />
 </p>
 
